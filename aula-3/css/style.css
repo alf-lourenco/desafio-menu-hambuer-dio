@@ -60,3 +60,11 @@ a:hover{
     }
     
 }
+.img{
+    border-radius: 45%;
+    width: 200px;
+    height: 250px;
+    object-position: -5px 20px;
+    padding-bottom: 15px;
+
+}
