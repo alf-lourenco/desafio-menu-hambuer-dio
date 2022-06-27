@@ -1,0 +1,3 @@
+criar mais de uma div de uma vez com classe
+tag.name cria a tag com classe definida
+div.nomeDaclase*numero multiplicador
